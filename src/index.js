@@ -1,3 +1,3 @@
 const mkw = require("./structures/MKW.js");
 
-exports = mkw;
+exports = module.exports = mkw;
