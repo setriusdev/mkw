@@ -1,7 +1,7 @@
 <div align="center">
     <img src="./mkw.png">
     <hr>
-    <h1><code>@0.1.0</code></h1>
+    <h1><code>@0.1.1</code></h1>
 </div>
 
 # MKW
@@ -62,6 +62,11 @@ These are what you would put in the `parameters[]` array for each function. **Th
 > - `"Function"`
 > - `"Array"`
 > - `"Object"`
+> - **Any Class**
+
+# Changelog
+## `mkw@0.1.1`
+> - Added support for custom classes as a Parameter Type.
 
 # Resources
 > - [GitHub](https://github.com/setriusdev/mkw)
@@ -69,7 +74,7 @@ These are what you would put in the `parameters[]` array for each function. **Th
 > - [Documentation](https://docs.setrius.com/mkw) (**Unreleased**)
 
 # Info
-Latest: `@0.1.0` on `9/16/2022`<br>
+Latest: `@0.1.1` on `9/16/2022`<br>
 By: `@itsatelo`<br>
 Dependencies:
 - `atils@2.0.2`
