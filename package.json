@@ -1,6 +1,6 @@
 {
   "name": "mkw",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A utility that allows you to better manipulate classes.",
   "main": "./src/index.js",
   "directories": {
